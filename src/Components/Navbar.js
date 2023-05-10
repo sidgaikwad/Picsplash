@@ -13,7 +13,7 @@ const Navbar = () => {
     <>
       <div className='w-full h-[50vh] bg-gradient-to-r flex flex-col  items-center from-indigo-500 via-purple-500 to-pink-500 pt-24 gap-y-6'>
 
-        <div className='md:w-[50vw] md:h-[50%] w-[90vw] h-[30%] text-center flex items-center italic lg:text-2xl text-sm underline font-bold border-2 cursor-pointer pt-2 bg-gradient-to-r from-cyan-500 to-blue-500 opacity-25' data-aos="fade-up-right" data-aos-duration="2000"> "WE ARE THE PHOTOS FROM UNSPLASH AND PIXABAY THATS WHY WE ARE PIXSLASH"</div>
+        <div className='md:w-[50vw] md:h-[50%] w-[90vw] h-[30%] text-center flex items-center italic lg:text-2xl text-sm underline font-bold border-2 cursor-pointer pt-2 bg-gradient-to-r from-cyan-500 to-blue-500 opacity-25' data-aos="fade-up-right" data-aos-duration="2000"> picsplash is a webiste that allows you to search for images using unsplash API and save them to your device. </div>
 
         <div className='flex justify-center gap-x-3 md:w-[50vw] h-[20%] w-[85vw] mx-auto'>
 
